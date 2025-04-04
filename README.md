@@ -1,5 +1,5 @@
 # my_list
-python
+python wk2
   
 my_list=[]
 my_list.append(10)
